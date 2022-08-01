@@ -1,3 +1,5 @@
+**_A skeleton for developing SoS modeller, used with permisson._***
+
 # system-of-systems-modeller
 System-of-systems-modeller (SOSM) is a NodeJS-based web app supported by an SQL database (MySQL) which allows a user to model nodes, their interfaces and the ways in which they connect. SOSM uses a number of client-side JS libraries which attempts to provide a clean UI, whilst also providing a clear graphical representation of the system, or the particular view of the system that the user is currently interested in.
 

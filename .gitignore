@@ -2,3 +2,8 @@ www/node_modules
 www/images
 package-lock.json
 private/
+src/
+www/assets/*.map
+www/assets/*.css
+www/assets/*.js
+www/clientSide/privateConstants.js

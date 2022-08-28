@@ -7,3 +7,5 @@ www/assets/*.map
 www/assets/*.css
 www/assets/*.js
 www/clientSide/privateConstants.js
+
+.DS_Store
